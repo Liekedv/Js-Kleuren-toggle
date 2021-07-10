@@ -1,0 +1,76 @@
+body {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
+#text {
+  font-family: "Sofia", sans-serif;
+}
+
+.body-color {
+  background-color: #d5d5d5;
+}
+
+#hamburger-menu {
+  height: 80px;
+}
+
+.menu-colors {
+  display: none;
+}
+
+.body-color {
+  list-style-type: none;
+  padding: 10px;
+}
+
+#home-btn {
+  background-color: #d5d5d5;
+}
+
+#orange-btn {
+  background-color: #f4e2c8;
+}
+
+#pink-btn {
+  background-color: #f4e1ea;
+}
+
+#green-btn {
+  background-color: #d7e0b1;
+}
+
+#blue-btn {
+  background-color: #b5dce1;
+}
+
+#purple-btn {
+  background-color: #cfd9f2;
+}
+
+.background-home {
+  background-color: #d5d5d5;
+}
+
+.background-orange {
+  background-color: #f4e2c8;
+}
+
+.background-pink {
+  background-color: #f4e1ea;
+}
+
+.background-green {
+  background-color: #d7e0b1;
+}
+
+.background-blue {
+  background-color: #b5dce1;
+}
+
+.background-purple {
+  background-color: #cfd9f2;
+}
+
+.show {
+  display: block;
+}
